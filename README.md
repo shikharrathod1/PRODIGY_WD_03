@@ -35,5 +35,5 @@ Created as part of the **Prodigy InfoTech Web Development Internship**.
 
 ---
 
-### Folder Structure
+### Folder Structure .
 
